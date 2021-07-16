@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/SanoKei/PaperDue">
-    <img src="https://user-images.githubusercontent.com/36809574/125879541-13a40b29-2666-4578-9d5d-7efe954afc8b.png" alt="Logo_Pic" width="152" height="180">
+  <a href="https://github.com/SanoKei/HiveMind">
+    <img src="https://github.com/Sanokei/HiveMind/blob/main/Resources/HiveMindLogo_Release.png" alt="Logo_Pic" width="200" height="200">
   </a>
   <h3 align="center">
    Hive Mind
@@ -71,7 +71,7 @@ You can add a label in your post by using \[\<Label Name>] in your title.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/SanoKei/PaperDue/issues) for a list of proposed features.
+See the [open issues](https://github.com/SanoKei/HiveMind/issues) for a list of proposed features.
 
 <!-- LICENSE -->
 ## License
