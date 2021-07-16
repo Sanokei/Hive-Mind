@@ -3,7 +3,7 @@
     <img src="https://github.com/Sanokei/HiveMind/blob/main/Resources/HiveMindLogo_Release.png" alt="Logo_Pic" width="200" height="200">
   </a>
   <h3 align="center">
-   Hive Mind
+   HiveMind
   </h3>
 </p>
 
