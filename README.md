@@ -38,7 +38,10 @@ A physical game, the rules of which are dictated by a hive mind of people using 
 ## Getting Started
 
 Join one of the games being created by creating a new pull request for the game you want to work on. 
-There are different labels for the games and different labels for:
+There are different labels for the games and different labels.
+
+You can add a label in your post by using \[\<Label Name>] in your title.
+  
 <h4><strong>Action Labels:</strong></h4>
   <ul>
 <li><strong>New</strong>: Create a new feature on your own</li>
@@ -55,9 +58,14 @@ There are different labels for the games and different labels for:
 <li><strong>Rule</strong>: For any new rules</li>
   </ul>
   
- <h4><strong>Moderation Labels:</strong></h4>
+<h4><strong>Moderation Labels:</strong></h4>
   <ul>
 <li><strong>Duplicate</strong>: For any request that is duplicated</li>
+  </ul>
+  
+<h4><strong>Bot Labels:</strong></h4>
+  <ul>
+<li><strong>Bot Treshold</strong>: Request to change the bot treshold for how many thumbs up emotes and thumbs down needed to either merge or close an issue.</li>
   </ul>
 
 <!-- ROADMAP -->
