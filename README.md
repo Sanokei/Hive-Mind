@@ -89,4 +89,5 @@ See the [open issues](https://github.com/SanoKei/HiveMind/issues) for a list of 
 
 <!-- LICENSE -->
 <h2 id="license">License</h2>
+
 We use the [MIT License](https://github.com/Sanokei/HiveMind/blob/main/LICENSE) to keep this project for and by the community.
