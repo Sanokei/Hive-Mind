@@ -1,5 +1,3 @@
-
-<br />
 <p align="center">
   <a href="https://github.com/SanoKei/PaperDue">
     <img src="https://user-images.githubusercontent.com/36809574/125879541-13a40b29-2666-4578-9d5d-7efe954afc8b.png" alt="Logo_Pic" width="152" height="180">
@@ -12,8 +10,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+ ## Table of Contents
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -25,7 +22,6 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
   </ol>
-</details>
 
 
 
@@ -41,7 +37,28 @@ A physical game, the rules of which are dictated by a hive mind of people using 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Read the Rules.md followed by the GameLoop.md
+Join one of the games being created by creating a new pull request for the game you want to work on. 
+There are different labels for the games and different labels for:
+<h4><strong>Action Labels:</strong></h4>
+  <ul>
+<li><strong>New</strong>: Create a new feature on your own</li>
+<li><strong>Question</strong>: Ask a question about a topic</li>
+<li><strong>Invalid</strong>: For any features that may be invalid or problematic</li>
+<li><strong>Help wanted</strong>: Adding onto a feature that already exists</li>
+<li><strong>Balance</strong>: For requests to balance features</li>
+  </ul>
+  
+<h4><strong>Topic Labels:</strong></h4>
+  <ul>
+<li><strong>Story and Lore</strong>: For story and lore elements</li>
+<li><strong>Gameloop</strong>: For anything in the gameloop</li>
+<li><strong>Rule</strong>: For any new rules</li>
+  </ul>
+  
+ <h4><strong>Moderation Labels:</strong></h4>
+  <ul>
+<li><strong>Duplicate</strong>: For any request that is duplicated</li>
+  </ul>
 
 <!-- ROADMAP -->
 ## Roadmap
