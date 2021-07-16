@@ -51,8 +51,9 @@ HiveMind started as an idea to help myself fix an old card based gambling game n
 <!-- GETTING STARTED -->
 <h2 id="start">Getting Started</h2>
 
-Join one of the games being created by creating a new issue
+Join one of the games being created by creating a new issue.
 
+You can either use one of the templates or add labels yourself.
 You can add a label in your post by using \[\<Label Name>] in your title.
   
 <h4 id="label-action"><strong>Action Labels:</strong></h4>
