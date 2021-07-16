@@ -51,8 +51,7 @@ HiveMind started as an idea to help myself fix an old card based gambling game n
 <!-- GETTING STARTED -->
 <h2 id="start">Getting Started</h2>
 
-Join one of the games being created by creating a new pull request for the game you want to work on. 
-There are different labels for the games and different labels.
+Join one of the games being created by creating a new issue
 
 You can add a label in your post by using \[\<Label Name>] in your title.
   
@@ -75,6 +74,7 @@ You can add a label in your post by using \[\<Label Name>] in your title.
 <h4 id="label-mod"><strong>Moderation Labels:</strong></h4>
   <ul>
 <li><strong>Duplicate</strong>: For any request that is duplicated</li>
+<li><strong>Confusing Labels</strong>: For any issue that has too many labels that make it confusing</li>
   </ul>
   
 <h4 id="label-bot"><strong>Bot Labels:</strong></h4>
