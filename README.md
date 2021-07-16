@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/SanoKei/HiveMind">
-    <img src="https://github.com/Sanokei/HiveMind/blob/main/Resources/HiveMindBanner_1.0.0_png.png" alt="Logo_Banner" width="1000" height="500">
+    <img src="https://github.com/Sanokei/HiveMind/blob/main/Resources/HiveMindBanner_1.0.0_png.png" alt="Logo_Banner" width="800" height="400">
   </a>
 </p>
 
