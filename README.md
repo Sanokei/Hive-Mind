@@ -31,7 +31,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-A game the rules of which are dictated by a hive mind of people using voting on issues.
+A physical game, the rules of which are dictated by a hive mind of people using voting on issues.
 
 
 ### Built With
