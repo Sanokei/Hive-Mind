@@ -50,11 +50,24 @@ HiveMind started as an idea to help myself fix an old card based gambling game n
 
 <!-- GETTING STARTED -->
 <h2 id="start">Getting Started</h2>
-
-Join one of the games being created by creating a new issue.
-
-You can either use one of the templates or add labels yourself.
-You can add a label in your post by using \[\<Label Name>] in your title.
+<ol>
+<li>Join one of the games being created by creating a new issue.</li>
+  <ul>
+    <li>You can either use one of the templates or add labels yourself.</li>
+    <li>You can add a label in your post by adding "[Label Name]" in your title.</li>
+  </ul>
+  <li>Fork the project</li>
+    <ul>
+      <li>Use this to make changes for the feature you want to add</li>
+    </ul>
+  <li>Create a pull request to the specific branch you want to change</li>
+  <li>Reference the pull request in your original issue</li>
+  <li>The bot will add the 👍 and 👎 emoji on your request</li>
+  <ul>
+      <li>Once the number of 👍 exceeds the bot threshold, the pull request will merge with the branch.</li>
+  </ul>
+  <li>Your feature is now added to the game!</li>
+</ol>
   
 <h4 id="label-action"><strong>Action Labels:</strong></h4>
   <ul>
